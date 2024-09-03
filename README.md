@@ -13,4 +13,10 @@ Codes:
 5. Appendix E – Decision Tree
 6. Appendix F – Random Forest and Comparison of Best Results
 
+Folium Maps:
+1. Leeds heatmap - RTA_heatmap.html
+2. All severity - RTA_heatmap_allsev.html
+3. Fatal Severity - RTA_heatmap_fatal.html
+
 Video presentation:
+https://youtu.be/KwOwSj6eS1o
